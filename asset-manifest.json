@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ali-baba/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ali-baba/static/js/main.70a7ed8b.chunk.js",
+    "main.js.map": "/ali-baba/static/js/main.70a7ed8b.chunk.js.map",
+    "runtime-main.js": "/ali-baba/static/js/runtime-main.e9e2a1ac.js",
+    "runtime-main.js.map": "/ali-baba/static/js/runtime-main.e9e2a1ac.js.map",
+    "static/js/2.e39aa147.chunk.js": "/ali-baba/static/js/2.e39aa147.chunk.js",
+    "static/js/2.e39aa147.chunk.js.map": "/ali-baba/static/js/2.e39aa147.chunk.js.map",
+    "index.html": "/ali-baba/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ali-baba/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e39aa147.chunk.js.LICENSE.txt": "/ali-baba/static/js/2.e39aa147.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9e2a1ac.js",
+    "static/js/2.e39aa147.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.70a7ed8b.chunk.js"
+  ]
+}
